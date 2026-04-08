@@ -5,5 +5,6 @@
 
     response.write texto & "<br>" & texto2
     response.write "<br>" & date 
+    response.write "<br>" & now
 
 %>
